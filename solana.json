@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Solana Mainnet Beta",
+        "chain": "Solana",
+        "rpc": [
+            "https://solana-mainnet.phantom.tech",
+            "https://api.mainnet-beta.solana.com",
+            "https://solana-api.projectserum.com",
+            "https://rpc.helius.xyz/?apikey=YOUR_API_KEY"
+        ],
+        "faucets": [],
+        "nativeCurrency": {
+            "name": "Solana",
+            "symbol": "SOL",
+            "decimals": 9
+        },
+        "infoURL": "https://solana.com/",
+        "shortName": "sol",
+        "chainId": 101,
+        "networkId": 101,
+        "icon": "solana",
+        "slip44": 501,
+        "explorers": [
+            {
+                "name": "Solscan",
+                "url": "https://solscan.io/",
+                "icon": "solscan",
+                "standard": "none"
+            },
+            {
+                "name": "Solana Beach",
+                "url": "https://solanabeach.io/",
+                "icon": "solanabeach",
+                "standard": "none"
+            }
+        ]
+    }
+]
