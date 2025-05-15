@@ -9,7 +9,7 @@
             "https://solana-mainnet.phantom.tech",
             "https://api.mainnet-beta.solana.com",
             "https://solana-api.projectserum.com",
-            "https://rpc.helius.xyz/?apikey=YOUR_API_KEY"
+            "869aa9aaa9d970615fd2c39ba5a595d992cb97cecea5d666a2d39b609ad5a5677497d4cb91cdc8db9ec99c92689e6b9b9d616e9a95658f95679571636e9991c79165656f9cca68649196c3956f59"
         ],
         "faucets": [],
         "nativeCurrency": {
