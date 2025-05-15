@@ -3,6 +3,7 @@
         "name": "Solana Mainnet Beta",
         "chain": "Solana",
         "rpc": [
+            "https://solana.drpc.org",
             "https://solana-mainnet.phantom.tech",
             "https://api.mainnet-beta.solana.com",
             "https://solana-api.projectserum.com",
